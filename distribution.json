@@ -7,9 +7,9 @@
       "name": "YoruCraft",
       "description": "Serveur Officiel YoruCraft",
       "icon": "https://github.com/Thornyxx.png",
-      "address": "TON_IP_ICI:25565",
+      "address": "91.197.6.226:25426",
       "discord": {
-        "clientId": "123456789012345678",
+        "clientId": "1d699121-6976-4338-a25e-38971f165e3a",
         "largeImageText": "YoruCraft"
       },
       "mainServer": true,
