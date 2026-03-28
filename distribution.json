@@ -1,0 +1,20 @@
+{
+  "version": "1.0.0",
+  "rss": "",
+  "servers": [
+    {
+      "id": "yorucraft",
+      "name": "YoruCraft",
+      "description": "Serveur Officiel YoruCraft",
+      "icon": "https://github.com/Thornyxx.png",
+      "address": "TON_IP_ICI:25565",
+      "discord": {
+        "clientId": "123456789012345678",
+        "largeImageText": "YoruCraft"
+      },
+      "mainServer": true,
+      "autoconnect": true,
+      "modules": []
+    }
+  ]
+}
